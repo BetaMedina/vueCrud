@@ -1,5 +1,6 @@
 # vueCrud
 
+**Pleas run**
 ````
 composer install
 php artisan serve
